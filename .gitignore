@@ -46,6 +46,11 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
+Homework_all.iml
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
 *.cover
 *.py,cover
 .hypothesis/
@@ -128,8 +133,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
-Homework_all.iml
-misc.xml
-modules.xml
-vcs.xml
-workspace.xml
